@@ -13,3 +13,18 @@ E:\GaBellaS\2. Знакомство с языками программирова
 E:\GaBellaS\2. Знакомство с языками программирования\Задача 64\obj\Debug\net6.0\Задача 64.pdb
 E:\GaBellaS\2. Знакомство с языками программирования\Задача 64\obj\Debug\net6.0\Задача 64.genruntimeconfig.cache
 E:\GaBellaS\2. Знакомство с языками программирования\Задача 64\obj\Debug\net6.0\ref\Задача 64.dll
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.dll
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\refint\Задача 64.dll
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.pdb
+E:\GaBellaS\2. ProgLanguage\Task64\bin\Debug\net6.0\Задача 64.exe
+E:\GaBellaS\2. ProgLanguage\Task64\bin\Debug\net6.0\Задача 64.deps.json
+E:\GaBellaS\2. ProgLanguage\Task64\bin\Debug\net6.0\Задача 64.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Task64\bin\Debug\net6.0\Задача 64.dll
+E:\GaBellaS\2. ProgLanguage\Task64\bin\Debug\net6.0\Задача 64.pdb
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\Задача 64.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Task64\obj\Debug\net6.0\ref\Задача 64.dll

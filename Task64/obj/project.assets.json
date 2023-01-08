@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GaBellaS\\2. Знакомство с языками программирования\\Задача 64\\Задача 64.csproj",
+      "projectUniqueName": "E:\\GaBellaS\\2. ProgLanguage\\Task64\\Задача 64.csproj",
       "projectName": "Задача 64",
-      "projectPath": "E:\\GaBellaS\\2. Знакомство с языками программирования\\Задача 64\\Задача 64.csproj",
+      "projectPath": "E:\\GaBellaS\\2. ProgLanguage\\Task64\\Задача 64.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "E:\\GaBellaS\\2. Знакомство с языками программирования\\Задача 64\\obj\\",
+      "outputPath": "E:\\GaBellaS\\2. ProgLanguage\\Task64\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
