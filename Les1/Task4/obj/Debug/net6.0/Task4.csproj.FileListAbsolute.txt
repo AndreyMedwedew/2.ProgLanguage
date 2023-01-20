@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\bin\Debug\net6.0\Task4.exe
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\bin\Debug\net6.0\Task4.deps.json
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\bin\Debug\net6.0\Task4.dll
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\bin\Debug\net6.0\Task4.pdb
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.dll
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.pdb
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les1\Task4\obj\Debug\net6.0\ref\Task4.dll

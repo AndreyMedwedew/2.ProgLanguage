@@ -6,3 +6,13 @@
 // 22 3 9 -> 22
 
 
+Console.Write("add number: "); 
+int max = int.Parse(Console.ReadLine());
+Console.Write("add second number: "); 
+int b = int.Parse(Console.ReadLine());
+Console.Write("add third number: "); 
+int c = int.Parse(Console.ReadLine());
+if (max < b) max = b;
+if (max < c) max = c;
+Console.Write("max number is: "); 
+Console.WriteLine(max);

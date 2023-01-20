@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GaBellaS\\2. ProgLanguage\\Task4\\Task4.csproj": {}
+    "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "E:\\GaBellaS\\2. ProgLanguage\\Task4\\Task4.csproj": {
+    "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GaBellaS\\2. ProgLanguage\\Task4\\Task4.csproj",
+        "projectUniqueName": "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "E:\\GaBellaS\\2. ProgLanguage\\Task4\\Task4.csproj",
+        "projectPath": "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "E:\\GaBellaS\\2. ProgLanguage\\Task4\\obj\\",
+        "outputPath": "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
