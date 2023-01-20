@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GaBellaS\\2. ProgLanguage\\Task6\\Task6.csproj",
+      "projectUniqueName": "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task6\\Task6.csproj",
       "projectName": "Task6",
-      "projectPath": "E:\\GaBellaS\\2. ProgLanguage\\Task6\\Task6.csproj",
+      "projectPath": "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task6\\Task6.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "E:\\GaBellaS\\2. ProgLanguage\\Task6\\obj\\",
+      "outputPath": "E:\\GaBellaS\\2. ProgLanguage\\Les1\\Task6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

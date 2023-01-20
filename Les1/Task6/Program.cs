@@ -5,4 +5,7 @@
 // -3 -> нет
 // 7 -> нет
 
-
+Console.Write("add number: "); 
+int a = int.Parse(Console.ReadLine());
+if (a % 2 == 0) Console.WriteLine("Yes");
+else Console.WriteLine("No");
