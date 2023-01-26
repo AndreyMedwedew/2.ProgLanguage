@@ -5,10 +5,10 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-Console.Write("add number: "); 
+Console.Write("add number: ");
 int a = int.Parse(Console.ReadLine());
-Console.Write("add second number: "); 
+Console.Write("add second number: ");
 int b = int.Parse(Console.ReadLine());
-Console.Write("max number is: "); 
+Console.Write("max number is: ");
 if (a > b) Console.WriteLine(a);
 else Console.WriteLine(b);
