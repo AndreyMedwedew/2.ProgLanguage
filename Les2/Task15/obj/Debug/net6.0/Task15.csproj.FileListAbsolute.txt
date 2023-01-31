@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\bin\Debug\net6.0\Task15.exe
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\bin\Debug\net6.0\Task15.deps.json
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\bin\Debug\net6.0\Task15.dll
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\bin\Debug\net6.0\Task15.pdb
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.dll
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\refint\Task15.dll
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.pdb
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les2\Task15\obj\Debug\net6.0\ref\Task15.dll
