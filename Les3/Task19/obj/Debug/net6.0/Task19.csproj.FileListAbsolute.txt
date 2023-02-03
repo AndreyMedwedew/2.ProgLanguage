@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\bin\Debug\net6.0\Task19.exe
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\bin\Debug\net6.0\Task19.deps.json
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\bin\Debug\net6.0\Task19.dll
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\bin\Debug\net6.0\Task19.pdb
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.dll
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\refint\Task19.dll
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.pdb
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task19\obj\Debug\net6.0\ref\Task19.dll

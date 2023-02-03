@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\bin\Debug\net6.0\Task23.exe
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\bin\Debug\net6.0\Task23.deps.json
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\bin\Debug\net6.0\Task23.dll
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\bin\Debug\net6.0\Task23.pdb
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.dll
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\refint\Task23.dll
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.pdb
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les3\Task23\obj\Debug\net6.0\ref\Task23.dll
