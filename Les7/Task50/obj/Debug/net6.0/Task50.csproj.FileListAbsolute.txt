@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\bin\Debug\net6.0\Task50.exe
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\bin\Debug\net6.0\Task50.deps.json
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\bin\Debug\net6.0\Task50.dll
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\bin\Debug\net6.0\Task50.pdb
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.dll
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\refint\Task50.dll
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.pdb
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task50\obj\Debug\net6.0\ref\Task50.dll

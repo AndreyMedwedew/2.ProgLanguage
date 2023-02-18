@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\bin\Debug\net6.0\Task47.exe
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\bin\Debug\net6.0\Task47.deps.json
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\bin\Debug\net6.0\Task47.dll
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\bin\Debug\net6.0\Task47.pdb
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.dll
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\refint\Task47.dll
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.pdb
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les7\Task47\obj\Debug\net6.0\ref\Task47.dll
