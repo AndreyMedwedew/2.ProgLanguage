@@ -1,0 +1,15 @@
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\bin\Debug\net6.0\Task56.exe
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\bin\Debug\net6.0\Task56.deps.json
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\bin\Debug\net6.0\Task56.dll
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\bin\Debug\net6.0\Task56.pdb
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.dll
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\refint\Task56.dll
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.pdb
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+E:\GaBellaS\2. ProgLanguage\Les8\Task56\obj\Debug\net6.0\ref\Task56.dll
